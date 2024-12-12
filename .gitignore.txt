@@ -1,0 +1,23 @@
+# Vitural Environment
+my_venv/
+venv/
+env/
+
+# VSCode-specific ignores
+.vscode/
+*.code-workspace
+
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# data 
+data/
